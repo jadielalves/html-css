@@ -37,14 +37,13 @@ header p > a{
 }
 
 main{
-    display: flex;
-    flex-direction: column;
+    
 }
 
 main p{
     
     
-    columns: 2;
+    
     margin: 40px;
 
 }

@@ -57,7 +57,8 @@ menu a{
     text-align: center;
     color: white;
 
-    border-top: 2px solid gray;
+
+    border-radius: 10px;
 }
 
 menu a:hover{
